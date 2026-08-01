@@ -1,0 +1,99 @@
+commit c1fe4c4fab11f73bb424ed616c183cc8eb692a58
+Author: Yuri Salazar <salazaryurigalaxy@gmail.com>
+Date:   Fri Jul 31 05:05:23 2026 -0600
+
+    Agregando 2 parrafos
+
+commit e3c3602ec09578ca5082a6dfc1961c2be844ae2c
+Merge: 72552b4 a8d1e50
+Author: Yuri Salazar <salazaryurigalaxy@gmail.com>
+Date:   Fri Jul 31 05:02:18 2026 -0600
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 72552b4d838c88ce39362f295b057a3dd856aee7
+Author: Yuri Salazar <salazaryurigalaxy@gmail.com>
+Date:   Fri Jul 31 04:32:26 2026 -0600
+
+    Agregando las estaciones del año con fecha de inicio
+
+commit a8d1e50289de9a14f6a64dd536c74ae91a5f5495
+Author: Yuri Salazar <salazaryurigalaxy@gmail.com>
+Date:   Fri Jul 31 04:32:26 2026 -0600
+
+    Agregando las estaciones del año
+
+commit 4c242e512cbdd770a3c0435e4662b7dbafc47e1b
+Merge: 4e2294c 1da07dc
+Author: Yuri Salazar <salazaryurigalaxy@gmail.com>
+Date:   Thu Jul 30 06:30:26 2026 -0600
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 1da07dc7f46fb7503f9ec3d1cef44622c66b5918
+Author: Yuri Salazar <salazaryurigalaxy@gmail.com>
+Date:   Thu Jul 30 05:41:45 2026 -0600
+
+    Agregando index.js al index.html
+
+commit 4e2294c1b3195dc2b6b610c16385dd5c578736ad
+Author: Yuri Salazar <salazaryurigalaxy@gmail.com>
+Date:   Thu Jul 30 05:34:01 2026 -0600
+
+    Agregando style.css al index.html
+
+commit fe9c374788f13fb16db055dd41e42187fa22d75c
+Merge: ef8f4d8 c05c7fd
+Author: Yuri Salazar <salazaryurigalaxy@gmail.com>
+Date:   Thu Jul 30 05:01:58 2026 -0600
+
+    Merge branch 'js'
+    Fusionando la rama js
+
+commit c05c7fd4e58dcba996030418ab6aefdf5c1c7cce
+Author: Yuri Salazar <salazaryurigalaxy@gmail.com>
+Date:   Wed Jul 29 20:44:17 2026 -0600
+
+    Creando index.js
+
+commit ef8f4d873ef45590d56346f54bcbefcd808ee1e1
+Author: Yuri Salazar <salazaryurigalaxy@gmail.com>
+Date:   Wed Jul 29 20:07:48 2026 -0600
+
+    Creando style.css
+
+commit 0bac1fdbac59deeae00a8880493afb1664f74fc5
+Author: Yuri Salazar <salazaryurigalaxy@gmail.com>
+Date:   Wed Jul 29 19:44:45 2026 -0600
+
+    Creando index.html
+
+commit 84c0d91cb699f8df8485928de8a41d232fb99e52
+Author: Yuri Salazar <salazaryurigalaxy@gmail.com>
+Date:   Wed Jul 29 05:17:01 2026 -0600
+
+    Ignorando archivos .exe
+
+commit 473bd2ee48b425cab4a2b58f8de50f3ac487b87a
+Author: salazaryurigalaxy <salazaryurigalaxy@gmail.com>
+Date:   Mon Jul 27 21:48:10 2026 -0600
+
+    Creando licencia del repositorio
+
+commit 7237505aafc1510d14880e5a229e74b23919f2b6
+Author: Yuri Salazar <salazaryurigalaxy@gmail.com>
+Date:   Mon Jul 27 21:27:29 2026 -0600
+
+    Agregando mas contenido al README
+
+commit 92d3c967628fd72bc4ea09d227435cdbe77694b9
+Author: Yuri Salazar <salazaryurigalaxy@gmail.com>
+Date:   Mon Jul 27 05:56:54 2026 -0600
+
+    Agregando contenido inicial al README
+
+commit 076d2d9c6617550006c31040a869c0dd42a24974
+Author: Yuri Salazar <salazaryurigalaxy@gmail.com>
+Date:   Mon Jul 27 05:50:44 2026 -0600
+
+    Primer commit 😊
