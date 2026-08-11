@@ -1,3 +1,42 @@
+commit 550cffeb36e0b6b05878ffc64b19efce0895c931
+Merge: 0307030 facd59f
+Author: salazaryurigalaxy <salazaryurigalaxy@gmail.com>
+Date:   Mon Aug 10 22:39:55 2026 -0600
+
+    Merge pull request #1 from salazaryuri/readme-salazaryuri
+    
+    Readme salazaryuri
+
+commit facd59fd8c575be56c8cea077f79491772c5ada9
+Author: Yuri Sal Rom <salazaryuri@gmail.com>
+Date:   Mon Aug 10 20:49:53 2026 -0600
+
+    Haciendo mejoras al README del repositorio
+
+commit c0687b6d4fa57f4381d3d9ed08a947b760b2562b
+Author: Yuri Sal Rom <salazaryuri@gmail.com>
+Date:   Mon Aug 10 18:30:39 2026 -0600
+
+    Cambio de prueba de la segunda cuenta de git
+
+commit 0307030c216eb2bf5b863c88103181c7aa45341d
+Author: Yuri Salazar <salazaryurigalaxy@gmail.com>
+Date:   Mon Aug 10 16:26:39 2026 -0600
+
+    Agregando imagen de flujo Git y poniendo chulo el index.html
+
+commit 1d38d10c875f4fa4f79e12386f2ca73fa58c2cd0
+Author: Yuri Salazar <salazaryurigalaxy@gmail.com>
+Date:   Mon Aug 10 08:29:54 2026 -0600
+
+    v1.0.0
+
+commit 653b10723a448e25edd57f39abda202e1711a642
+Author: Yuri Salazar <salazaryurigalaxy@gmail.com>
+Date:   Fri Jul 31 21:30:10 2026 -0600
+
+    Respaldando logs del repositorio
+
 commit c1fe4c4fab11f73bb424ed616c183cc8eb692a58
 Author: Yuri Salazar <salazaryurigalaxy@gmail.com>
 Date:   Fri Jul 31 05:05:23 2026 -0600
